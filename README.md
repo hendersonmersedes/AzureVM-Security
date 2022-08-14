@@ -10,5 +10,6 @@
    <li> Once validation is passed, click create and wait for the resource to be added</li>
    <li> Now that your VM is created, RDP into it with your log information</li>
    <li> Go back to the Azure portal and search for Sentinel</li>
-   <li> Create a new workspace in Sentinel.</li>
+   <li> Create a new workspace in Sentinel. Activate Sentinel in the workspace</li>
+   <li> Connect Microsoft Defender for Cloud </li>
  </ol>
