@@ -11,5 +11,5 @@
    <li> Now that your VM is created, RDP into it with your log information</li>
    <li> Go back to the Azure portal and search for Sentinel</li>
    <li> Create a new workspace in Sentinel. Activate Sentinel in the workspace</li>
-   <li> Connect Microsoft Defender for Cloud </li>
+   <li> Connect Microsoft Defender for Cloud. Enable the "<b>Create Incidents</b>" option</li>
  </ol>
