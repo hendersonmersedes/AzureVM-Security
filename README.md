@@ -8,4 +8,7 @@
    <li> I kept the port RDP 3389 open. (I cannot stress this enough...<b>SAVE YOUR LOGIN INFORMATION</b>)</li>
    <li> Created a storage account to gather diagnostics information. (This will be used to attach Sentinel later)</li>
    <li> Once validation is passed, click create and wait for the resource to be added</li>
+   <li> Now that your VM is created, RDP into it with your log information</li>
+   <li> Go back to the Azure portal and search for Sentinel</li>
+   <li> Create a new workspace in Sentinel.</li>
  </ol>
