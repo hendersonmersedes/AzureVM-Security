@@ -12,4 +12,5 @@
    <li> Go back to the Azure portal and search for Sentinel</li>
    <li> Create a new workspace in Sentinel. Activate Sentinel in the workspace</li>
    <li> Connect Microsoft Defender for Cloud. Enable the "<b>Create Incidents</b>" option</li>
+   <li> Navigate to Monitor, Virtual machine, and get started with adding the Log Analytics agent to your VM</li>
  </ol>
